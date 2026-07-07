@@ -130,5 +130,4 @@ export const SIMULATOR_SCENARIOS: SimulatorScenario[] = [
     hacer: "Valida la emoción: 'Sé que es muy difícil para ti ahora mismo. Estoy aquí contigo'. Permite que descargue la tensión llorando mientras lo acompañas con afecto seguro."
   }
 ];
-
-export const STRIPE_LINK = https://www.neuropaternidad.com/antesdelcolapso/buy;
+export const STRIPE_LINK = "https://www.neuropaternidad.com/antesdelcolapso/buy";
