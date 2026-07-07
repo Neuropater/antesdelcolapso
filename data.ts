@@ -131,4 +131,4 @@ export const SIMULATOR_SCENARIOS: SimulatorScenario[] = [
   }
 ];
 
-export const STRIPE_LINK = "https://TU-LINK-DE-STRIPE-AQUI.com";
+export const STRIPE_LINK = https://www.neuropaternidad.com/antesdelcolapso/buy;
