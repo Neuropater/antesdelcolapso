@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,400&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Montserrat", ui-sans-serif, system-ui, sans-serif;
+  
+  /* Brand Colors configured as CSS variables/custom colors in Tailwind CSS v4 */
+  --color-morado-profundo: #4C1D95;
+  --color-violeta: #7C3AED;
+  --color-fucsia: #D946EF;
+  --color-rosa: #EC4899;
+  --color-turquesa: #14B8A6;
+  --color-naranja: #F97316;
+  --color-fondo-claro: #FAF7FF;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: var(--color-fondo-claro);
+  color: #1F2937;
+}
